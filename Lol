@@ -1,0 +1,3 @@
+white true do
+game.replicatedstorage.Mainevent:Fireserver("Stomp")
+end
